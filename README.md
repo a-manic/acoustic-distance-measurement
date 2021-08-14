@@ -5,3 +5,5 @@ the implementation of this method using the phase shift conversion for calculati
 
 The Schematic of the system for this project was built on Vivado, and the coding and interface to board were done on Xilinx using Embedded C.
 
+For more details on methodology and results, please refer [here](https://github.com/a-manic/acoustic-distance-measurement/blob/main/Report.pdf).
+
